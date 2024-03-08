@@ -1,0 +1,55 @@
+#cover-pic{
+  width: 1518px;
+  height: 570px;
+}
+
+#zom{
+  
+  font-size: 70px;
+  position: relative;
+  left: 630px;
+  top: -450px;
+  color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#zoma{
+  width: 500px;
+}
+
+#desc{
+  position: relative;
+  left: 430px;
+  top: -400px;
+  font-size: 40px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+#descr{
+  width: 700px;
+  text-align: center;
+}
+#descri{
+  width: 750px;
+}
+#descrip{
+  position: relative;
+  left: 500px;
+  top: -300px;
+  color: black;
+  font-size: 45px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  
+}
+
+#trashbox{
+  width:1000px;
+  position: relative;
+  left: 330px;
+  top: 300px;
+  text-align: center;
+}
+
+#trash{
+  color: gray;
+}

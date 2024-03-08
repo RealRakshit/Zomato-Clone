@@ -1,0 +1,15 @@
+#Loginform{
+
+        position: relative;
+        top: -900px;
+        background-color: rgb(0, 0, 0,0.8);
+        left: 470px;
+        padding-right: 200px;
+        padding-top: 100px;
+    
+}
+
+.g{
+        position: relative;
+        top: -15px;
+}

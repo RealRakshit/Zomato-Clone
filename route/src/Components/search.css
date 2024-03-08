@@ -1,0 +1,18 @@
+#searchbar{
+    width: 1400px;
+    position: relative;
+    top: -200px;
+}
+
+button{
+    position: relative;
+    top: -200px;
+}
+
+.ul{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    position: relative;
+    top: -200px;
+}

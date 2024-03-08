@@ -1,0 +1,39 @@
+.notetext{
+    text-align: center;
+}
+
+.singleNote{
+    width: 400px;
+    height: 100px;
+    background-color: #ffffff;
+    color: rgb(238, 246, 247);
+    border-style: solid;
+    
+    margin: 5px;
+    border-color: rgb(199, 197, 197);
+    border-width: 1px;
+}
+
+#btn{
+    position: relative;
+    left: 350px;
+    top: 25px;
+}
+
+.singleNote22{
+    width: 400px;
+    height: 100px;
+    background-color: #ffffff;
+    border-style: solid;
+    margin: 5px;
+    border-color:rgb(190, 189, 188);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;;
+}
+
+#p{
+    color: black;
+    position: relative;
+    top: 0px;
+    color: rgb(206, 201, 194);
+    
+}
